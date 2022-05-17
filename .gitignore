@@ -1,0 +1,7 @@
+#eclipse
+.cproject
+.project
+.settings/
+
+#develop
+build
