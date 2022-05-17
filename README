@@ -1,0 +1,7 @@
+This project is composed by tow file test.c and timerfd_handler.c
+
+Timerfd_handler.c is the library and test.c is the tester for the library.
+
+The software creates and timer file descriptor, it assigns a timeout and
+a callback to verify the timeout frequency. It has been tested 
+on a ARM cortex A53.
